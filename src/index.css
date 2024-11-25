@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Urbanist", serif;
+    overflow-x: hidden;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+:root{
+    --suprthit-color:rgba(32, 178, 132, 0.826);
+    --average-color:rgb(255, 167, 4);
+}
+.container{
+    width: 100vw;
+    padding: 1rem;
+}
+
+ul{
+    margin: 1.5rem 0;
+}
+li{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    width: 90%;
+    margin-left: 2rem;
+    list-style: none;
+    padding: 1.2rem;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+    & img{
+        width: 100%;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px; 
+}
+
+}
+h2{
+    font-size: 3rem;
+}
+h3{
+    font-size: 2rem;
+    padding: .2rem 0;
+}
+h4, p{
+    font-size: 1.8rem;
+    color: #333;
+}
+
+button{
+    width: 32%;
+    padding: 1rem 1.2rem;
+    font-size: 1.5rem;
+    background-color: #800000;
+    color: #555;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: none;
+    margin-bottom: 1rem;    
+    cursor: pointer;
+    font-weight: 700;
+}
+
+button:hover{
+    transition: all .25s;
+    -webkit-transition: all .25s;
+    -moz-transition: all .25s;
+    -ms-transition: all .25s;
+    -o-transition: all .25s;
+    color: #000;
+    font-weight: 700;
+
+}
+
+
+.grid{
+    display: grid;
+    gap: 3rem;
+}
+.grid-two-cols{
+    grid-template-columns: repeat(2, 1fr);
+}
+.grid-three-cols{
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.super_hit{
+    background-color: var(--suprthit-color);
+}
+.average{
+    background-color:var(--average-color) ;
+}
+
+.rating{
+    padding: .2rem 1.1rem;
+    color: #000;
+    margin-left: 1.2rem;
+    border-radius: 150rem;
+    -webkit-border-radius: 150rem;
+    -moz-border-radius: 150rem;
+    -ms-border-radius: 150rem;
+    -o-border-radius: 150rem;
+}

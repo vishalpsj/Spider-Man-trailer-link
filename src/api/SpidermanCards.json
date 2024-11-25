@@ -1,0 +1,82 @@
+[
+    {
+      "movieName": "Spider-Man",
+      "imageURL": "spiderman1.avif",
+      "casting": ["Tobey Maguire", "Kirsten Dunst", "Willem Dafoe"],
+      "genre": "Action, Adventure, Sci-Fi",
+      "storyline": "Peter Parker becomes Spider-Man and battles the Green Goblin.",
+      "releaseYear": 2002,
+      "imdbRating": 7.4,
+      "youtubeTrailerLink": "https://www.youtube.com/watch?v=TYMMOjBUPMM"
+    },
+    {
+      "movieName": "Spider-Man 2",
+      "imageURL": "spiderman2.jpg",
+      "casting": ["Tobey Maguire", "Kirsten Dunst", "Alfred Molina"],
+      "genre": "Action, Adventure, Sci-Fi",
+      "storyline": "Spider-Man faces Dr. Octopus while struggling with his personal life.",
+      "releaseYear": 2004,
+      "imdbRating": 7.4,
+      "youtubeTrailerLink": "https://www.youtube.com/watch?v=1s9Yln0YwCw"
+    },
+    {
+      "movieName": "Spider-Man 3",
+      "imageURL": "spiderman3.jpg",
+      "casting": ["Tobey Maguire", "Kirsten Dunst", "Thomas Haden Church"],
+      "genre": "Action, Adventure, Sci-Fi",
+      "storyline": "Peter battles his inner darkness and faces Venom and Sandman.",
+      "releaseYear": 2007,
+      "imdbRating": 6.2,
+      "youtubeTrailerLink": "https://www.youtube.com/watch?v=wPosLpgMtTY"
+    },
+    {
+      "movieName": "The Amazing Spider-Man",
+      "imageURL": "Aspiderman1.jpg",
+      "casting": ["Andrew Garfield", "Emma Stone", "Rhys Ifans"],
+      "genre": "Action, Adventure, Sci-Fi",
+      "storyline": "Peter Parker investigates his parents' past and fights the Lizard.",
+      "releaseYear": 2012,
+      "imdbRating": 6.9,
+      "youtubeTrailerLink": "https://youtu.be/-tnxzJ0SSOw?si=ERr4QcRhxXDJJlap"
+    },
+    {
+      "movieName": "The Amazing Spider-Man 2",
+      "imageURL": "Aspiderman2.jpg",
+      "casting": ["Andrew Garfield", "Emma Stone", "Jamie Foxx"],
+      "genre": "Action, Adventure, Sci-Fi",
+      "storyline": "Spider-Man faces Electro and the Green Goblin while uncovering secrets.",
+      "releaseYear": 2014,
+      "imdbRating": 6.6,
+      "youtubeTrailerLink": "https://www.youtube.com/watch?v=DlM2CWNTQ84"
+    },
+    {
+      "movieName": "Spider-Man: Homecoming",
+      "imageURL": "spidermanH.jpg",
+      "casting": ["Tom Holland", "Zendaya", "Michael Keaton"],
+      "genre": "Action, Adventure, Sci-Fi",
+      "storyline": "Peter Parker balances high school life and fighting the Vulture.",
+      "releaseYear": 2017,
+      "imdbRating": 7.4,
+      "youtubeTrailerLink": "https://www.youtube.com/watch?v=U0D3AOldjMU"
+    },
+    {
+      "movieName": "Spider-Man: Far From Home",
+      "imageURL": "spidermanFFH.jpg",
+      "casting": ["Tom Holland", "Zendaya", "Jake Gyllenhaal"],
+      "genre": "Action, Adventure, Sci-Fi",
+      "storyline": "Spider-Man faces Mysterio while on a school trip in Europe.",
+      "releaseYear": 2019,
+      "imdbRating": 7.4,
+      "youtubeTrailerLink": "https://www.youtube.com/watch?v=Nt9L1jCKGnE"
+    },
+    {
+      "movieName": "Spider-Man: No Way Home",
+      "imageURL": "spidermanNWH.jpg",
+      "casting": ["Tom Holland", "Zendaya", "Benedict Cumberbatch"],
+      "genre": "Action, Adventure, Sci-Fi",
+      "storyline": "Peter deals with multiverse villains and seeks help from Doctor Strange.",
+      "releaseYear": 2021,
+      "imdbRating": 8.3,
+      "youtubeTrailerLink": "https://www.youtube.com/watch?v=JfVOs4VSpmA"
+    }
+]
