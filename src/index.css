@@ -11,12 +11,13 @@ html{
 }
 
 :root{
-    --suprthit-color:rgba(32, 178, 132, 0.826);
-    --average-color:rgb(255, 167, 4);
+    --suprthit-color:#4fdb4f;
+    --average-color:rgba(253, 106, 32, 0.953);
 }
 .container{
     width: 100vw;
     padding: 1rem;
+    background-color: #fff;
 }
 
 ul{
@@ -63,7 +64,7 @@ button{
     width: 32%;
     padding: 1rem 1.2rem;
     font-size: 1.5rem;
-    background-color: #800000;
+    background-color: #4fdb4f;
     color: #555;
     border-radius: 5px;
     -webkit-border-radius: 5px;

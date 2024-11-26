@@ -1,6 +1,7 @@
 import { SpidermanMovies } from "./components/SpidermanMovies"
 import "./components/Spiderman.css"
 
+
 const App = () => {
   return(
     <section className="container">
